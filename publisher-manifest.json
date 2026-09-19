@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "1abe6fea05d9264506116bc5",
+  "owner": "sscvay",
+  "repo": "page-46c9a6d7f3a44daa036406f1",
+  "title": "Clash Mi服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "46c9a6d7f3a44daa036406f1",
+      "a": "Exflux",
+      "b": "Clash Mi服务商官网",
+      "entity": "Exflux",
+      "brand": "Clash Mi服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2910970cef8478080efd63f2ea78fe13455f9caeb912eaf15db259d84956b624",
+      "content": {
+        "primary_entity": "Exflux",
+        "keyword1": "Exflux",
+        "keyword2": "Clash Mi服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端：Windows、macOS、Android、iOS 与路由器各有适配方案，先确认系统版本再下载安装。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择套餐，按客户端文档配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连上节点",
+          "AI_DESCRIPTION": "，围绕订阅配置与套餐对比展开。Exflux 提供基础版、旗舰版与团队版三档选择：基础版每月 100GB 流量、3 台设备，旗舰版每月 300GB、5 台设备并带 IPLC 专线，团队版每月 1000GB、20 台设备。按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。按设备系统选择客户端，导入订阅后即可切换节点使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个角度对比套餐，先明确需求再选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 适合单人轻量使用；旗舰版每月 300GB 适合多设备日常；团队版每月 1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_1": "按流量需求选",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。手机、电脑与平板同时在线时，先统计常用设备数量。",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线节点，适合对延迟敏感的场景；团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_3": "按线路类型选",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，按三个步骤依次操作。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "Exflux 提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备。按设备系统选择客户端，导入订阅后即可使用节点。",
+          "AI_HERO_SUBTITLE": "套餐清晰，设备适配简单",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖百GB级月流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付享更优价格，长期使用更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。先看流量与设备数，再看线路类型。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "对照流量、设备数量与线路类型，在基础版、旗舰版、团队版中选择适合自己的一档。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与对应客户端版本要求，确认自己的系统可以安装。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档说明完成节点配置后即可切换使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Exflux 订阅与套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机与笔记本轻度使用，刷网页、看视频基本够用。",
+          "AI_FAQ_ANSWER_2": "旗舰版有 IPLC 专线，延迟更低，适合对游戏加速和原生流媒体解锁有要求的用户，月流量 300GB。",
+          "AI_FAQ_ANSWER_3": "常用客户端有 Clash、Shadowrocket、v2rayN 和 v2rayNG，按设备系统选择对应版本，导入订阅后即可使用。",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐区分，基础版 3 台、旗舰版 5 台、团队版 20 台，超出后新设备可能无法连接。",
+          "AI_FAQ_ANSWER_5": "月付按标价，年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么用？",
+          "AI_FAQ_QUESTION_3": "各设备该装哪个客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "月付和年付怎么选？",
+          "AI_FAQ_TITLE": "Exflux 常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a682de278e9ac02f328e1884b08525c3213a81877efb520ec206148e9e8ac5fd",
+    "sitemap.xml": "c260b76bdda673c9911fcebe23469d3a5ee42732d4a5a2fcbb7edcb9d3879a2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a4611e685a41c115a4fadc54d10a8c1841637bd7e1bfc58b3dd241b30f5b776d"
+}
